@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Dancing+Script:wght@400..700&family=Fira+Sans:ital,wght@1,300&family=Kablammo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Dancing+Script:wght@400..700&family=Fira+Sans:ital,wght@1,300&family=Kablammo&family=Updock&display=swap');
+h3{
+    font-family: "Kablammo", system-ui;
+    color: #009900;
+}
+li{
+    font-family: "Updock", cursive;
+    font-size: 25px;
+    font-weight: 400;
+}
+.the-card{
+    border: solid 1px teal;
+    width: 300px;
+    padding: 10px;
+    box-shadow:10px;
+    box-shadow: 7px 7px #dfdcdc;
+    border-radius: 10px;
+   
+}
+.image{
+    width: 300px;
+    box-shadow: 1px 1px 10px #009900;
+}
+.contant{
+    width: 280px;
+    border: solid 1px teal;
+    padding: 10px;
+    margin-top: 7px;
+    background-color: rgba(250, 235, 215, 0.381);
+}
+.contant .interesting-fact{
+    font-style: italic;
+
+}
+.contant .list span{
+    font-weight: bold;
+    
+}
+ul{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+.the-card .contant a{
+    text-decoration: none;
+    margin-left: 130px;
+    background-color: #0928349c;
+    color: black;
+    padding: 9px 20px;
+    border-radius: 5px;
+}
+.contant a:hover{
+    color: aliceblue;
+    background-color: #63639C;
+}
+.contant p{
+    margin-top: 10px;
+}
